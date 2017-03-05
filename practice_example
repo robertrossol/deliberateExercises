@@ -1,0 +1,1 @@
+[2,5,1].map do |num| puts num*2 end
